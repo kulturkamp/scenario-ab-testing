@@ -5,3 +5,5 @@ A fast-food chain plans to add a new item to its menu. In order to determine whi
 
 ### Goal  
 Evaluate A/B testing results and decide which marketing strategy works the best.
+
+## See [nbwirver](https://nbviewer.org/github/kulturkamp/scenario-ab-testing/blob/master/marketing-campaign.ipynb) for notebook with visualizations.
